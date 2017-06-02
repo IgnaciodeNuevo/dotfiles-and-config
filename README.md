@@ -17,4 +17,5 @@
 + [SublimeLinter](http://www.sublimelinter.com/en/latest/)
 + [SublimeLinter-jsxhint](https://github.com/SublimeLinter/SublimeLinter-jsxhint)
 + [SublimeLinter-contrib-scss-lint](https://github.com/attenzione/SublimeLinter-scss-lint)
++ [Sublime Tutor](https://github.com/jaipandya/SublimeTutor)
 + [TypeScript](https://packagecontrol.io/packages/TypeScript)
