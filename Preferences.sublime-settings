@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/TronLegacy (SL).tmTheme",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Seti_orig.sublime-theme"
+}
