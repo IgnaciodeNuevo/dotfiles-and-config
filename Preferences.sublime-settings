@@ -18,8 +18,7 @@
 		"ie 7"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/TronLegacy (SL).tmTheme",
-	"font_face": "Inconsolata",
-	"font_size": 22,
+	"font_size": 20,
 	"ha_style": "filled",
 	"highlight_modified_tabs": true,
 	"ignored_packages":
