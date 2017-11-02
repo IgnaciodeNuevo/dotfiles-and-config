@@ -1,0 +1,14 @@
+{
+  "workbench.colorTheme": "Cobalt2",
+  "editor.fontFamily": "Inconsolata, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 23,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontWeight": "500",
+  "prettier.eslintIntegration": true,
+  // this isn't really underline-thin but we hack it to be a thicker cursor
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "solid",
+  "editor.renderWhitespace": "all",
+  "editor.formatOnSave": true
+}
