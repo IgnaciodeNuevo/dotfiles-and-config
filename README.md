@@ -3,7 +3,7 @@
 ## Plugins I use in [Visual Studio Code](https://code.visualstudio.com)
 
 + [TronLegacy](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
-+ [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
++ [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): *CMD + Shift + P -> Format Document*
 + [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 + [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
