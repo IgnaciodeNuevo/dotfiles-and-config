@@ -2,7 +2,7 @@
 
 ## Plugins I use in [Visual Studio Code](https://code.visualstudio.com)
 
-+ [Cobalt2 Theme](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
++ [TronLegacy](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
 + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 + [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
