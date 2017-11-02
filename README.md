@@ -4,7 +4,7 @@
 
 + [Cobalt2 Theme](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-+ [StyleLint]https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint()
++ [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 
 ## Plugins I use in [Sublime Text 3](https://www.sublimetext.com/3)
 
