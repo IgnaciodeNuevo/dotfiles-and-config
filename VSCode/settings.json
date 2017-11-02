@@ -10,5 +10,6 @@
   "editor.cursorStyle": "line",
   "editor.cursorBlinking": "solid",
   "editor.renderWhitespace": "all",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true
 }
