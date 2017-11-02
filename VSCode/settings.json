@@ -1,8 +1,8 @@
 {
-  "workbench.colorTheme": "Cobalt2",
+  "workbench.colorTheme": "TronLegacy",
   "editor.fontFamily": "Inconsolata, 'Courier New', monospace",
-  "editor.fontSize": 16,
-  "editor.lineHeight": 23,
+  "editor.fontSize": 18,
+  "editor.lineHeight": 24,
   "files.trimTrailingWhitespace": true,
   "editor.fontWeight": "500",
   "prettier.eslintIntegration": true,
