@@ -11,14 +11,12 @@
   "editor.renderWhitespace": "all",
   // Code Formatting
   "editor.formatOnSave": true,
-  "prettier.eslintIntegration": true,
-  "prettier.printWidth": 80,
+  "prettier.printWidth": 100,
   "prettier.tabWidth": 2,
   "prettier.singleQuote": true,
-  "javascript.format.enable": true,
-
   // StyleLint
   "stylelint.enable": true,
   "css.validate": true,
-  "scss.validate": true
+  "scss.validate": true,
+  "workbench.startupEditor": "welcomePage"
 }
