@@ -1,5 +1,20 @@
 # My Development setup and dotfiles
 
+## Plugins I use in [Visual Studio Code](https://code.visualstudio.com)
+
++ [TronLegacy](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
++ [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): *CMD + Shift + P -> Format Document*
++ [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
++ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
++ [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
++ [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
++ [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
++ [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
++ [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
++ [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
++ [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
++ [IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+
 ## Plugins I use in [Sublime Text 3](https://www.sublimetext.com/3)
 
 + [Babel](https://github.com/babel/babel-sublime)
