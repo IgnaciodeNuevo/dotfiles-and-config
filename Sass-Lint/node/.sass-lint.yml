@@ -46,14 +46,14 @@ rules:
   no-universal-selectors: 0
   no-url-domains: 1
   no-url-protocols: 0
-  no-vendor-prefixes: 2
+  no-vendor-prefixes: 0
   no-warn: 0
   property-units: 0
 
   # Nesting
   declarations-before-nesting: 2
-  force-attribute-nesting: 2
-  force-element-nesting: 2
+  force-attribute-nesting: 1
+  force-element-nesting: 0
   force-pseudo-nesting: 0
 
   # Name Formats
@@ -96,7 +96,7 @@ rules:
     - size: 2
   leading-zero: 0
   max-line-length:
-    - 2
+    - 1
     - length: 100
   max-file-line-count: 0
   nesting-depth:
@@ -127,4 +127,4 @@ rules:
 
   # Final Items
   trailing-semicolon: 2
-  final-newline: 2
+  final-newline: 0
