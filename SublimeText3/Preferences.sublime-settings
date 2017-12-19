@@ -17,8 +17,8 @@
 		"ie 8",
 		"ie 7"
 	],
-	"color_scheme": "Packages/User/SublimeLinter/TronLegacy (SL).tmTheme",
-	"font_size": 20,
+	"color_scheme": "Packages/Tron Color Scheme/TronLegacy.tmTheme",
+	"font_size": 18,
 	"ha_style": "filled",
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -30,3 +30,4 @@
 	  "translate_tabs_to_spaces": true,
 	  "theme": "Seti_orig.sublime-theme"
 }
+
