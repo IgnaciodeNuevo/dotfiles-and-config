@@ -1,22 +1,49 @@
 {
-  "workbench.colorTheme": "TronLegacy",
-  "files.trimTrailingWhitespace": true,
+  "editor.autoClosingBrackets": true,
+  "editor.autoIndent": true,
+  "editor.colorDecorators": true,
+  "editor.cursorBlinking": "blink",
+  "editor.cursorStyle": "line",
+  "editor.detectIndentation": false,
   "editor.fontFamily": "Inconsolata, 'Courier New', monospace",
   "editor.fontSize": 18,
-  "editor.lineHeight": 24,
   "editor.fontWeight": "500",
-  "editor.tabSize": 2,
-  "editor.cursorStyle": "line",
-  "editor.cursorBlinking": "solid",
-  "editor.renderWhitespace": "all",
-  // Code Formatting
+  "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.lineHeight": 24,
+  "editor.links": true,
+  "editor.matchBrackets": false,
+  "editor.minimap.enabled": false,
+  "editor.multiCursorModifier": "alt",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.overviewRulerBorder": true,
+  "editor.renderWhitespace": "none",
+  "editor.selectionHighlight": true,
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": true,
+  // Workbench
+  "workbench.colorTheme": "TronLegacy",
+  "workbench.editor.labelFormat": "long",
+  "workbench.startupEditor": "none",
+  // Window
+  "window.restoreFullscreen": true,
+  // Files
+  "files.autoSave": "off",
+  "files.hotExit": "onExit",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": false,
+  // Prettier
   "prettier.printWidth": 100,
   "prettier.tabWidth": 2,
   "prettier.singleQuote": true,
   // StyleLint
   "stylelint.enable": true,
   "css.validate": true,
-  "scss.validate": true,
-  "workbench.startupEditor": "welcomePage"
+  "scss.validate": true
 }
