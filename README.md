@@ -4,6 +4,7 @@
 
 + [Angular v5 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 + [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
++ [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 + [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 + [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
