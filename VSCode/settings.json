@@ -80,6 +80,10 @@
   "stylelint.enable": true,
   // SCSS Scan
   "scss.showErrors": true,
+  // Auto Rename Tag
+  "auto-rename-tag.activationOnLanguage": [
+    "*"
+  ],
   // Prettier
   "prettier.printWidth": 100,
   "prettier.semi": true,
