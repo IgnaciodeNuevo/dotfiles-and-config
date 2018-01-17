@@ -9,7 +9,7 @@
   "editor.fontSize": 18,
   "editor.fontWeight": "500",
   "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.formatOnType": true,
   "editor.lineHeight": 24,
   "editor.links": true,
