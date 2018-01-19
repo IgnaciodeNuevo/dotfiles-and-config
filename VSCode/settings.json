@@ -76,6 +76,7 @@
   // Emmet
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
   // StyleLint
   "stylelint.enable": true,
   // SCSS Scan
