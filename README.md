@@ -6,7 +6,8 @@
 + [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
 + [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 + [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-+ [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
++ [Debugger for Chrome](https:/
++ [eCSStractor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)/marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 + [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 + [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
@@ -29,7 +30,6 @@
 + [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
 + [CSS3](https://github.com/y0ssar1an/CSS3)
 + [Dayle Ress Color Schemes](https://github.com/daylerees/colour-schemes)
-+ [eCSStractor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
 + [Emmet](https://emmet.io/blog/sublime-text-3/)
 + [HTML5](https://github.com/mrmartineau/HTML5)
 + [JavaScriptNext - ES6 Syntax](https://github.com/Benvie/JavaScriptNext.tmLanguage)
