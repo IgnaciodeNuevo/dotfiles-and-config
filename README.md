@@ -29,6 +29,7 @@
 + [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
 + [CSS3](https://github.com/y0ssar1an/CSS3)
 + [Dayle Ress Color Schemes](https://github.com/daylerees/colour-schemes)
++ [eCSStractor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
 + [Emmet](https://emmet.io/blog/sublime-text-3/)
 + [HTML5](https://github.com/mrmartineau/HTML5)
 + [JavaScriptNext - ES6 Syntax](https://github.com/Benvie/JavaScriptNext.tmLanguage)
