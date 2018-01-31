@@ -6,8 +6,8 @@
 + [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
 + [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 + [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-+ [Debugger for Chrome](https:/
-+ [eCSStractor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)/marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
++ [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
++ [eCSStractor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
 + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 + [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 + [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
