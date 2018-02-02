@@ -9,7 +9,7 @@
   "editor.fontSize": 18,
   "editor.fontWeight": "500",
   "editor.formatOnPaste": true,
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "editor.formatOnType": true,
   "editor.lineHeight": 24,
   "editor.links": true,
@@ -22,13 +22,14 @@
     "strings": true
   },
   "editor.overviewRulerBorder": true,
+  "editor.renderIndentGuides": false,
   "editor.renderWhitespace": "none",
   "editor.selectionHighlight": true,
   "editor.tabSize": 2,
   "editor.trimAutoWhitespace": true,
   // Workbench
   "workbench.colorTheme": "TronLegacy",
-  "workbench.editor.labelFormat": "short",
+  "workbench.editor.labelFormat": "long",
   "workbench.startupEditor": "none",
   // Window
   "window.restoreFullscreen": true,
@@ -38,6 +39,11 @@
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "files.trimFinalNewlines": false,
+  // Guides
+  "guides.active.color.dark": "#007acc",
+  "guides.active.enabled": true,
+  "guides.normal.color.dark": "rgba(60, 60, 60, 0.5)",
+  "guides.sendUsagesAndStats": false,
   // File Explorer
   "explorer.sortOrder": "type",
   // HTML
@@ -76,15 +82,12 @@
   // Emmet
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.triggerExpansionOnTab": true,
-  "emmet.syntaxProfiles": { "javascript": "jsx" },
   // StyleLint
   "stylelint.enable": true,
   // SCSS Scan
   "scss.showErrors": true,
   // Auto Rename Tag
-  "auto-rename-tag.activationOnLanguage": [
-    "*"
-  ],
+  "auto-rename-tag.activationOnLanguage": ["*"],
   // Prettier
   "prettier.printWidth": 100,
   "prettier.semi": true,
