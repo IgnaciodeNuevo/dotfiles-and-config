@@ -1,0 +1,7 @@
+[alias]
+	lg = log --pretty=oneline --abbrev-commit --graph --decorate
+	b = branch
+	c = checkout
+	cm = commit -m
+	com = checkout master
+	a = add -A
