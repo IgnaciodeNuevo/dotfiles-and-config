@@ -93,5 +93,14 @@
   "prettier.semi": true,
   "prettier.singleQuote": true,
   "prettier.tabWidth": 2,
-  "prettier.trailingComma": "es5"
+  "prettier.trailingComma": "es5",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": true,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false
+  }
 }

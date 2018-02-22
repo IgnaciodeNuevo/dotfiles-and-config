@@ -5,6 +5,7 @@
 * [Angular v5 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 * [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 * [eCSStractor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
@@ -22,6 +23,7 @@
 * [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 * [scss-scan](https://marketplace.visualstudio.com/items?itemName=aaronphy.scss-scan)
 * [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+* [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 * [TronLegacy](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 
