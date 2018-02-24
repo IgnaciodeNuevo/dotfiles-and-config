@@ -51,7 +51,6 @@
   // Markdown
   "markdown.preview.fontSize": 18,
   "markdown.preview.lineHeight": 1.6,
-  // TypeScript
   // CSS
   "css.lint.emptyRules": "error",
   "css.lint.idSelector": "warning",
@@ -75,10 +74,6 @@
   "eslint.options": {},
   "eslint.run": "onSave",
   // GitLens
-  // TSLint
-  "tslint.autoFixOnSave": true,
-  "tslint.configFile": "",
-  "tslint.run": "onSave",
   // Emmet
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.triggerExpansionOnTab": true,
@@ -102,5 +97,6 @@
     "suppressLineUncommittedWarning": true,
     "suppressNoRepositoryWarning": false,
     "suppressResultsExplorerNotice": false
-  }
+  },
+  "sublimeTextKeymap.promptV3Features": true
 }
