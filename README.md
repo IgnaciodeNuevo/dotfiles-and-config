@@ -2,8 +2,6 @@
 
 ## Plugins I use in [Visual Studio Code](https://code.visualstudio.com)
 
-* [Angular v5 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
-* [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
@@ -25,7 +23,6 @@
 * [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 * [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 * [TronLegacy](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
-* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 
 ## Plugins I use in [Sublime Text 3](https://www.sublimetext.com/3)
 
