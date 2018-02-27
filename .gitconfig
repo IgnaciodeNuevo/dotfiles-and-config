@@ -1,5 +1,6 @@
 [alias]
-	lg = log --pretty=oneline --abbrev-commit --graph --decorate
+	l log --oneline --no-merges
+	lg --pretty=oneline --abbrev-commit --graph --decorate
 	b = branch
 	c = checkout
 	cm = commit -m
