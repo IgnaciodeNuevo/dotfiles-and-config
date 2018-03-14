@@ -29,7 +29,8 @@
   "editor.trimAutoWhitespace": true,
   // Workbench
   "workbench.colorTheme": "TronLegacy",
-  "workbench.editor.labelFormat": "long",
+  "workbench.editor.labelFormat": "medium",
+  "workbench.editor.tabSizing": "shrink",
   "workbench.startupEditor": "none",
   // Window
   "window.restoreFullscreen": true,
