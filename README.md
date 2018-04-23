@@ -23,6 +23,7 @@
 * [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 * [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 * [TronLegacy](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
+* [Vue: Syntax Highlight](https://marketplace.visualstudio.com/items?itemName=liuji-jim.vue) 
 
 ## Plugins I use in [Sublime Text 3](https://www.sublimetext.com/3)
 
