@@ -12,12 +12,12 @@
     "editor.cursorStyle": "line",
     "editor.detectIndentation": false,
     "editor.fontFamily": "Inconsolata, 'Courier New', monospace",
-    "editor.fontSize": 18,
+    "editor.fontSize": 16,
     "editor.fontWeight": "400",
     "editor.formatOnPaste": false,
     "editor.formatOnSave": false,
     "editor.formatOnType": true,
-    "editor.lineHeight": 26,
+    "editor.lineHeight": 22,
     "editor.links": true,
     "editor.matchBrackets": false,
     "editor.minimap.enabled": false,
@@ -51,8 +51,8 @@
     // HTML
     "html.suggest.html5": true,
     // Markdown
-    "markdown.preview.fontSize": 18,
-    "markdown.preview.lineHeight": 26,
+    "markdown.preview.fontSize": 16,
+    "markdown.preview.lineHeight": 22,
     // CSS
     "css.lint.emptyRules": "error",
     "css.lint.idSelector": "warning",
@@ -68,7 +68,7 @@
     // Terminal
     "terminal.explorerKind": "external",
     "terminal.external.osxExec": "iTerm.app",
-    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.fontSize": 16,
     // Path-IntelliSense
     "path-intellisense.showHiddenFiles": true,
     // ESLint
