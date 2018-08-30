@@ -11,7 +11,7 @@
     "editor.cursorBlinking": "blink",
     "editor.cursorStyle": "line",
     "editor.detectIndentation": false,
-    "editor.fontFamily": "Inconsolata, 'Courier New', monospace",
+    "editor.fontFamily": "Input-Regular_(InputMono-Regular), 'Courier New', monospace",
     "editor.fontSize": 16,
     "editor.fontWeight": "400",
     "editor.formatOnPaste": false,
