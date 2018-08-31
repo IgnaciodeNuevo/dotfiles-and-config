@@ -18,6 +18,7 @@
 * [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 * [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 * [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+* [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 * [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 * [TronLegacy](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
 * [Vetur: Vue tooling for VS Code](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
