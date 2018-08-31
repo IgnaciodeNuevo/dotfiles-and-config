@@ -51,8 +51,8 @@
     // HTML
     "html.suggest.html5": true,
     // Markdown
-    "markdown.preview.fontSize": 16,
-    "markdown.preview.lineHeight": 22,
+    "markdown.preview.fontSize": 18,
+    "markdown.preview.lineHeight": 26,
     // CSS
     "css.lint.emptyRules": "error",
     "css.lint.idSelector": "warning",
@@ -68,7 +68,7 @@
     // Terminal
     "terminal.explorerKind": "external",
     "terminal.external.osxExec": "iTerm.app",
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontSize": 18,
     // Path-IntelliSense
     "path-intellisense.showHiddenFiles": true,
     // ESLint
@@ -76,7 +76,6 @@
     "eslint.autoFixOnSave": false,
     "eslint.options": {},
     "eslint.run": "onSave",
-    // GitLens
     // Emmet
     "emmet.showSuggestionsAsSnippets": true,
     "emmet.triggerExpansionOnTab": true,
