@@ -46,6 +46,11 @@
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": false,
+    // Guides
+    "guides.active.color.dark": "#007acc",
+    "guides.active.enabled": true,
+    "guides.normal.color.dark": "rgba(60, 60, 60, 0.5)",
+    "guides.sendUsagesAndStats": false,
     // File Explorer
     "explorer.sortOrder": "type",
     // HTML
@@ -103,7 +108,9 @@
         "suppressResultsExplorerNotice": false,
         "suppressShowKeyBindingsNotice": true
     },
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
     "extensions.ignoreRecommendations": true,
-    "telemetry.enableTelemetry": false
+    "telemetry.enableTelemetry": false,
+    "gitlens.keymap": "alternate",
+    "gitlens.historyExplorer.enabled": true
 }
