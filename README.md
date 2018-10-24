@@ -75,10 +75,10 @@ xcode-select --install
 
 ### Tools
 
--   [Color Oracle](https://colororacle.org/)
--   [Color Picker](https://itunes.apple.com/gb/app/color-picker/id641027709?mt=12)
+-   [ColorSlurp](https://itunes.apple.com/us/app/colorslurp/id1287239339?ls=1&mt=12)
 -   [ImageAlpha](https://pngmini.com/)
 -   [ImageOptim](https://imageoptim.com/mac)
+-   [Sip Color Tool](https://sipapp.io/)
 
 ### Audio
 
