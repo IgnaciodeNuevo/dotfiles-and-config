@@ -23,26 +23,6 @@
 -   [TronLegacy](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
 -   [Vetur: Vue tooling for VS Code](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
-## Plugins I use in [Sublime Text 3](https://www.sublimetext.com/3)
-
--   [Babel](https://github.com/babel/babel-sublime)
--   [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
--   [CSS3](https://github.com/y0ssar1an/CSS3)
--   [Dayle Ress Color Schemes](https://github.com/daylerees/colour-schemes)
--   [Emmet](https://emmet.io/blog/sublime-text-3/)
--   [HTML5](https://github.com/mrmartineau/HTML5)
--   [JavaScriptNext - ES6 Syntax](https://github.com/Benvie/JavaScriptNext.tmLanguage)
--   [ReactJS](https://github.com/facebookarchive/sublime-react)
--   [Sass Snippets](https://github.com/sublimebrasil/sublime-snippets-sass)
--   [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
--   [Seti_UI](https://github.com/ctf0/Seti_ST3)
--   [SideBarEnhancements](https://github.com/SideBarEnhancements-org/SideBarEnhancements)
--   [Sublime Tutor](https://github.com/jaipandya/SublimeTutor)
--   [SublimeLinter-contrib-scss-lint](https://github.com/attenzione/SublimeLinter-scss-lint)
--   [SublimeLinter-jsxhint](https://github.com/SublimeLinter/SublimeLinter-jsxhint)
--   [SublimeLinter](http://www.sublimelinter.com/en/latest/)
--   [TypeScript](https://packagecontrol.io/packages/TypeScript)
-
 ## New Mac
 
 A set of links to use when setting up a new macOS device.
@@ -53,7 +33,7 @@ First, you need the Xcode CLI tools.
 xcode-select --install
 ```
 
-### Work
+### Work Apps
 
 -   [Browsers](http://outdatedbrowser.com/en)
 -   [Fantastical 2](https://flexibits.com/fantastical/download)
