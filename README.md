@@ -5,22 +5,25 @@
 -   [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 -   [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 -   [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+-   [CSScomb](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb)
 -   [eCSStractor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
 -   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
--   [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 -   [Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
 -   [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 -   [IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 -   [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 -   [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 -   [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
--   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): _CMD + Shift + P -> Format Document_
 -   [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 -   [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 -   [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+-   [TronLegacy Theme](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
+
+## Unused Plugins
+
+-   [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 -   [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 -   [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
--   [TronLegacy](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
 -   [Vetur: Vue tooling for VS Code](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 ## New Mac
@@ -55,7 +58,6 @@ xcode-select --install
 
 ### Tools
 
--   [ColorSlurp](https://itunes.apple.com/us/app/colorslurp/id1287239339?ls=1&mt=12)
 -   [ImageAlpha](https://pngmini.com/)
 -   [ImageOptim](https://imageoptim.com/mac)
 -   [Sip Color Tool](https://sipapp.io/)
