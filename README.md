@@ -7,6 +7,7 @@
 -   [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 -   [CSScomb](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb)
 -   [eCSStractor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
+-   [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 -   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 -   [Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
 -   [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
