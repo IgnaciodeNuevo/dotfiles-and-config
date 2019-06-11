@@ -17,6 +17,7 @@
 -   [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 -   [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 -   [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+-   [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode)
 -   [TronLegacy Theme](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
 
 ## Unused Plugins
