@@ -102,5 +102,10 @@
     "gitlens.views.lineHistory.enabled": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "javascript.format.enable": false,
-    "liveshare.featureSet": "insiders"
+    "liveshare.featureSet": "insiders",
+    "editor.tokenColorCustomizations": {
+        "[TronLegacy]": {
+            "comments": "#aac2e3"
+        }
+    },
 }
