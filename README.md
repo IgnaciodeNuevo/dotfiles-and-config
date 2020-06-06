@@ -2,31 +2,18 @@
 
 ## Plugins I use in [Visual Studio Code](https://code.visualstudio.com)
 
+-   [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 -   [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 -   [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 -   [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
--   [CSScomb](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb)
--   [eCSStractor](https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor)
--   [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 -   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+-   [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 -   [Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
 -   [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
--   [IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
--   [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
--   [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+-   [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 -   [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
--   [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
--   [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
--   [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
--   [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode)
+-   [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 -   [TronLegacy Theme](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TronLegacy)
-
-## Unused Plugins
-
--   [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
--   [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
--   [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
--   [Vetur: Vue tooling for VS Code](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 ## New Mac
 
@@ -42,9 +29,6 @@ xcode-select --install
 
 -   [Browsers](http://outdatedbrowser.com/en)
 -   [Fantastical 2](https://flexibits.com/fantastical/download)
--   [FontBase](https://fontba.se/)
--   [FontPlop](https://github.com/matthewgonzalez/fontplop/releases)
--   [FontStand](https://fontstand.com/)
 -   [Homebrew](https://brew.sh/)
 -   [iTerm2](https://www.iterm2.com/)
 -   [VSCode](https://code.visualstudio.com/Download)
@@ -60,7 +44,6 @@ xcode-select --install
 
 ### Tools
 
--   [ImageAlpha](https://pngmini.com/)
 -   [ImageOptim](https://imageoptim.com/mac)
 -   [Sip Color Tool](https://sipapp.io/)
 
