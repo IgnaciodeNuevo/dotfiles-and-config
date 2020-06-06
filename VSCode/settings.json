@@ -79,7 +79,7 @@
     "path-intellisense.showHiddenFiles": true,
     // ESLint
     "eslint.alwaysShowStatus": true,
-    "eslint.autoFixOnSave": false,
+    "editor.codeActionsOnSave": {},
     "eslint.options": {},
     "eslint.run": "onSave",
     // Emmet
@@ -91,7 +91,7 @@
     "auto-rename-tag.activationOnLanguage": [
         "*"
     ],
-    "window.zoomLevel": -1,
+    "window.zoomLevel": 1,
     "extensions.ignoreRecommendations": true,
     "telemetry.enableTelemetry": false,
     "explorer.confirmDragAndDrop": false,
@@ -103,9 +103,7 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "javascript.format.enable": false,
     "liveshare.featureSet": "insiders",
-    "editor.tokenColorCustomizations": {
-        "[TronLegacy]": {
-            "comments": "#aac2e3"
-        }
-    },
+    "explorer.confirmDelete": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.enableSmartCommit": true
 }
